@@ -1,4 +1,4 @@
 # Define the variable board below.
-define boar
+define board
 board[9];
-board[] = {" "," "," "," "," "," "," "," "," ",}
+board[9] = {" "," "," "," "," "," "," "," "," ",}
